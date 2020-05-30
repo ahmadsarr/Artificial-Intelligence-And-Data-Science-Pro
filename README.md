@@ -1,2 +1,2 @@
 # Data Science Pro
-# Trying to collect all the best data science material available on the web from different sources to boost up learning.
+This repository aims to collect all the best data science material available on the web from different sources to boost up learning
