@@ -8,3 +8,7 @@ This repository aims to collect all the best data science material available on 
 ## Machine Learning Algorithms Code Snippets In Python and R
 
 ![](Readme%20Image/ML%20Algorithms%20in%20Python%20and%20R.jpg)
+
+## A Complete Guide to Neural Networks
+
+![](Readme%20Image/Complete%20Neural%20Networks.png)
