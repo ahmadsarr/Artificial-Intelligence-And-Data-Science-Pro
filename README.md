@@ -1,8 +1,11 @@
 # Data Science Pro
 This repository aims to collect all the best data science material available on the web from different sources to boost up learning for everyone including me and Not to Worry, it is Regularly Updated.
 
-## Data Exploration in Python
-![](Readme%20Image/Data%20Exploration%20in%20Python.jpg)
+## Data Exploration Using Pandas
+![](Readme%20Image/Data%20Exploration%20Using%20Pandas.jpg)
+
+## Data Visualization Using Python
+![](Readme%20Image/Data%20Visualization%20Using%20Python.jpg)
 
 ## Machine Learning Algorithms Code Snippets In Python and R
 
