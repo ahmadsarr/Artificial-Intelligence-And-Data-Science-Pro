@@ -1,4 +1,4 @@
-# Data Science Pro 
+# One Stop Solution for Artificial Intelligence and Data Science 
 
 **Note** - **Each Course can be found on Youtube - Try Searching with Exact Course Name**
 
