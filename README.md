@@ -1,4 +1,4 @@
-# One Stop Solution for Artificial Intelligence and Data Science 
+# One Stop Solution for Artificial Intelligence and Data Science Resources and Material
 
 **Note** - **Each Course can be found on Youtube - Try Searching with Exact Course Name**
 
