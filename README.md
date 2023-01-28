@@ -15,4 +15,6 @@ This repository aims to collect all the best data science / ai material availabl
 
 ![](Readme%20Image/Complete%20Neural%20Networks.png)
 
+*Note* - some of the content such as png, jpg or pdf too sometimes are not rendered properly, solution is try changing your dns and it works flawlessly.
+
 ### Thank you for Visiting, Good Luck 
