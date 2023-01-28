@@ -2,7 +2,7 @@
 
 **Note** - **Each Course can be found on Youtube - Try Searching with Exact Course Name**
 
-This repository aims to collect all the best data science material available on the web from different sources to boost up learning for everyone including me and Not to Worry, it is Regularly Updated.
+This repository aims to collect all the best data science / ai material available on the web from different sources to boost up learning for everyone including me and not to worry, it is Regularly Updated.
 
 ![0_IT9aLhgbOVDkMNKM](https://user-images.githubusercontent.com/42691222/154684309-e9172138-2237-474f-9abc-36436a594de4.png)
 
