@@ -9,11 +9,15 @@ This repository aims to collect all the best data science / ai material availabl
 
 ## Machine Learning Algorithms Code Snippets In Python and R
 
-![](Readme%20Image/ML%20Algorithms%20in%20Python%20and%20R.jpg)
+![ML Algorithms in Python and R](https://user-images.githubusercontent.com/42691222/215324162-7d9bd903-4d83-4b8f-829c-19bf95764dd3.jpg)
+
 
 ## A Complete Guide to Neural Networks
 
-![](Readme%20Image/Complete%20Neural%20Networks.png)
+![Complete Neural Networks](https://user-images.githubusercontent.com/42691222/215324148-236ad68a-35dc-41f7-9c1d-1cc6bccab4d7.png)
+
+
+
 
 **Note** - some of the content such as png, jpg or pdf too sometimes are not rendered properly, solution is try changing your dns and it works flawlessly.
 
